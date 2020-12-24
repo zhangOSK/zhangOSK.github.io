@@ -3,8 +3,8 @@ title: Homepage
 # subtitle: by HTML5 UP
 email: zhang@hlab.sys.es.osaka-u.ac.jp
 description: A Ph.D candidate majored in Robotics Up<br /> at Osaka University.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "zhangOSK.github.io" # the subpath of your site, e.g. /blog
+url: https://zhangosk.github.io/ # the base hostname & protocol for your site
 author:
 street_address: Department of System Innovation, Graduate School of Engineering Science, Osaka University
 city: Toyonaka City
