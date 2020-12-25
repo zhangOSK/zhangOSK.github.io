@@ -15,7 +15,7 @@ country: Japan
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 3
 
 # social settings
 500px_url:
