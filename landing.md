@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Pivoting manipulation(udnergoing)</h2>
+			<h2>Pivoting manipulation(undergoing)</h2>
 		</header>
 		<p>We are trying to pivot different shaped object. Pivoting saves energy in manipulation as most of the weight of object is supported by floor. </p>
 	</div>
