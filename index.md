@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: home
 title: Home
 landing-title: 'Hi, my name is Zhang Ang, 張昂'
 description: null
