@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Basic Info
 nav-menu: true
 ---
 
