@@ -2,7 +2,7 @@
 layout: post
 title: Gallery
 description: 
-image: assets/images/withHorse.jpg
+image: assets/images/withhorse.jpg
 nav-menu: true
 ---
 
