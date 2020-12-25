@@ -52,23 +52,12 @@ nav-menu: true
 	source inverter[J]. International Journal of Control, Automation and Systems,
 	2018, 16(5): 2136-2145.2018.07.25</li>
 			<li>Zhang A, Ramirez-Alpizar I G, Stasse O, Harada K. A fast bipedal gait pattern generation based on model predictive control, 1J1-
-	052018.9 the 36th Annual Conference of the Robotics Society of Japan</li>
+	05 2018.9 the 36th Annual Conference of the Robotics Society of Japan</li>
 		</ol>
 	</div>
 </div>
 
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+
 
 <!-- Lists -->
 <h3>Lists</h3>
