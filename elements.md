@@ -20,28 +20,19 @@ nav-menu: true
 <div class="row">
 	<div class="8u 12u$(small)">
 		<h3>Education:</h3>
-			<div class="row">
-				<div class="6u 12u$(small)">
-					<ul>
-						<li>Osaka University</li>
-						<li>Chonbuk National University, South Korea</li>
-						<li>Northeastern University, China</li>
-					</ul>
-				</div>
-			</div>
+			<ul>
+				<li>Osaka University</li>
+				<li>Chonbuk National University, South Korea</li>
+				<li>Northeastern University, China</li>
+			</ul>
 	</div>
 	<div class="8u$ 12u$(small)">
-		<h3>Visit</h3>
-			<div class="row">
-				<div class="6u 12u$(small)">
-					<ul>
-						<li>2019.10, CNRS-LAAS, France</li>
-						<li>2019.05, CNRS-LAAS, France</li>
-						<li>2018.08, University of Gottingen, Genmany</li>
-					</ul>
-				</div>
-			</div>
-		<p></p>
+		<h3>Visit:</h3>
+			<ul>
+				<li>2019.10, CNRS-LAAS, France</li>
+				<li>2019.05, CNRS-LAAS, France</li>
+				<li>2018.08, University of Gottingen, Genmany</li>
+			</ul>
 	</div>
 	<!-- Break -->
 </div>
