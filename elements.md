@@ -34,7 +34,6 @@ nav-menu: true
 				<li>2018.08, University of Gottingen, Genmany</li>
 			</ul>
 	</div>
-	<!-- Break -->
 </div>
 
 <hr class="major" />
