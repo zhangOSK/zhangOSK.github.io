@@ -65,7 +65,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Pulling fire-hose</h3>
 				</header>
-				<p>We make humnaoid robot TALOS to pull fire-hose. An impedance controller is introduced in the arm holding hose. By compensating the dragging force from hose and designing the strategy to pull, the robot pulls fire-hose without falling.</p>
+				<p>We make humanoid robot TALOS to pull fire-hose. An impedance controller is introduced in the arm pulling hose. By compensating the dragging force from hose and designing the strategy to pull, the robot pulls fire-hose without falling.</p>
 			</div>
 		</div>
 	</section>
