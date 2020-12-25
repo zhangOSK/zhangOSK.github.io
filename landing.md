@@ -50,7 +50,7 @@ nav-menu: true
 				</header>
 				<p>A bipedal gait controller for humanoid robot HRP-2. We propose using basis functions like Laguerre functions and Haar functions to describe the control variable of MPC which saves computation cost. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Paper</a></li>
+					<li><a href="https://www.tandfonline.com/doi/full/10.1080/01691864.2019.1594366" class="button">Paper</a></li>
 				</ul>
 			</div>
 		</div>
