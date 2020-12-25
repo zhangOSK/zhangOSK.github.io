@@ -18,7 +18,7 @@ nav-menu: true
 <h2 id="content">Short Bio</h2>
 <p>I am a Ph.D candidate at Harada Lab in Osaka University. The link of our lab is <a href="https://www.roboticmanipulation.org/">here</a>. My research interests are dual-arm manipulation, pivoting motion, bipedal walking, MPC, optimization problems, etc. </p>
 <div class="row">
-	<div class="8u 12u$(small)">
+	<div class="8u$ 12u$(small)">
 		<h3>Education:</h3>
 			<ul>
 				<li>Osaka University</li>
@@ -27,7 +27,7 @@ nav-menu: true
 			</ul>
 	</div>
 	<div class="8u$ 12u$(small)">
-		<h3>Visit:</h3>
+		<h3>Visits:</h3>
 			<ul>
 				<li>2019.10, CNRS-LAAS, France</li>
 				<li>2019.05, CNRS-LAAS, France</li>
