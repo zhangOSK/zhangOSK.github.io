@@ -71,17 +71,5 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>欢迎</h2>
-		</header>
-		<p>您好，我是张昂，目前是大阪大学的一名博士研究生。我的研究兴趣为机械臂控制，双臂协作，二足步行，模型预测控制，优化控制等等。欢迎来到我的主页，期待与您进一步交流。</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
 
 </div>
