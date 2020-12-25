@@ -39,7 +39,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- publications-->
-<h2 id="content">Publications</h2>
+<h3 id="content">Publications:</h3>
 <p></p>
 <!-- Elements -->
 <div class="row 200%">
