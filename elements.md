@@ -6,7 +6,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<!-- <div id="main" class="alt"> -->
+<div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
@@ -32,9 +32,11 @@ nav-menu: true
 			</ul>
 	</div>
 </div>
+</section>
 
 <!-- <hr class="major" /> -->
 
+<section id="two">
 <!-- publications-->
 <h3 id="content">Publications:</h3>
 <p></p>
@@ -56,4 +58,4 @@ nav-menu: true
 
 </section>
 
-
+</div>
