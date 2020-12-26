@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 
 <!-- Content -->
-<h2 id="content">Short Bio</h2>
+<h1 id="content">Short Bio</h1>
 <p>I am a Ph.D candidate in Osaka University supervised by Prof. Kensuke Harada. The link of our lab is <a href="https://www.roboticmanipulation.org/">here</a>. I also work with Prof. Olivier Stasse in CNRS-LAAS. My research interests are dual-arm manipulation, pivoting motion, bipedal walking, MPC, optimization problems, etc. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -55,7 +55,7 @@ nav-menu: true
 
 
 
-</div>
+
 </section>
 
 </div>
