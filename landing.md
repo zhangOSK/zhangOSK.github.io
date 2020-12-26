@@ -2,7 +2,7 @@
 title: Research
 layout: landing
 description: 'Pivoting manipulation, Bipedal walking, Model Predictive Control(MPC)'
-image: assets/images/pic07.jpg
+image: assets/images/keyboard.jpg
 nav-menu: true
 ---
 
