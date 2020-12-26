@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Info
-image: assets/images/phd.jpg
+image: assets/images/code.jpg
 nav-menu: true
 ---
 
