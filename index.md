@@ -5,7 +5,6 @@ landing-title: 'Hi, my name is Zhang Ang, 張昂'
 description: null
 image: null
 author: null
-image: assets/images/roboBaby.jpg
 show_tile: false
 ---
 
