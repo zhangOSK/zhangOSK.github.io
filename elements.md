@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Basic Info
+image: assets/images/robo.png
 nav-menu: true
 ---
 
