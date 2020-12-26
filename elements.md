@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Info
-image: assets/images/code.jpg
+image: assets/images/brain.jpg
 nav-menu: true
 ---
 
