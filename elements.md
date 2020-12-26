@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Info
-image: assets/images/roboPad.jpg
+image: assets/images/phd.jpg
 nav-menu: true
 ---
 
