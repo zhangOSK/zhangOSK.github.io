@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Info
-image: assets/images/roboThink.jpg
+image: assets/images/roboPad.jpg
 nav-menu: true
 ---
 
