@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Info
-image: assets/images/brain.jpg
+image: assets/images/keywar.jpg
 nav-menu: true
 ---
 
