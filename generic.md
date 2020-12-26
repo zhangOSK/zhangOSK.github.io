@@ -6,4 +6,4 @@ image: assets/images/withhorse.jpg
 nav-menu: true
 ---
 
-Under construction. withHorse.jpg pic11.jpg
+Under construction. 
