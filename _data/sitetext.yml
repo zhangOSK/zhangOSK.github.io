@@ -35,9 +35,11 @@ en: &DEFAULT_EN
         alt:
       - title: "Visits"
 #         year: "March 2011"
-        desc: "2019.10, CNRS-LAAS, France. Pulling fire-hose by humanoid robot Talos.<br>
+        desc: "2019.10, CNRS-LAAS.<br>
+        France. Pulling fire-hose by humanoid robot Talos.<br>
         2019.05, CNRS-LAAS, France.<br>
-        2018.08, University of Gottingen, Germany. Summer school of data science."
+        2018.08, University of Gottingen, Germany.<br>
+        Summer school of data science."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Service"
@@ -46,13 +48,17 @@ en: &DEFAULT_EN
         Reviewer, IEEE International Conference on Advanced Robotics and Mechatronics.ICARM2019"
         image: assets/img/timeline/1.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        align: left
+      - title: "Publications"
+#         year: "2009-2011"
+        desc: "2020, Zhang A, Keisuke K, Weiwei W, Kensuke H. Pivoting Large Object using Graph Model Predictive Control. The 21th Conference of the Society of Instrument and Control Engineers(SICE2020)<br>
+        2019, Zhang A, Ramirez-Alpizar I G, Esclasse K G, Stasse O, Harada K. Humanoid walking pattern generation based on model predictive control approximated with basis functions[J]. Advanced Robotics, 2019: 1-15.<br>
+        2018, Chen M, Zhang A, Chong K T. A novel controller design for three-phase voltage source inverter[J]. International Journal of Control, Automation and Systems, 2018, 16(5): 2136-2145.<br>
+        2018, Zhang A, Ramirez-Alpizar I G, Stasse O, Harada K. A fast bipedal gait pattern generation based on model predictive control, 1J1- 052018.9 the 36th Annual Conference of the Robotics Society of Japan"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        align: left
     end: "Be Part <br> of Our <br> Story!"
 
   services:
