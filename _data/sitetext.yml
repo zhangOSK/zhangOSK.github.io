@@ -26,9 +26,9 @@ en: &DEFAULT_EN
       - title: "Education"
 #         year: "2009-2011"
 #         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        desc: "2017-now, Ph.D candidate at Graduate School of Engineering Science at Osaka University.
-        2014-2016, Master degree, Chonbuk National University in South Korea.
-        2009-2013, Bachelor degree, Northeastern University in China"
+        desc: "<p>**2017-now, Ph.D candidate at Graduate School of Engineering Science at Osaka University.**</p>
+        <p>**2014-2016, Master degree, Chonbuk National University in South Korea.**</p>
+        <p>**2009-2013, Bachelor degree, Northeastern University in China.**</p>"
         image: assets/img/timeline/3.jpg
 #         image: assets/img/timeline/1.jpg
         alt:
