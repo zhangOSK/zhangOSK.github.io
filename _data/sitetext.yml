@@ -25,7 +25,7 @@ en: &DEFAULT_EN
     events:
       - title: "Education"
 #         year: "2009-2011"
-        desc: "2017-now, Ph.D candidate<br>**Osaka University**<br>2014-2016, Master degree<br>**Chonbuk National University in South Korea**<br>2009-2013, Bachelor degree<br>**Northeastern University in China**"
+        desc: "2017-now, Ph.D candidate<br>**Osaka University**<br>2014-2016, Master degree<br>**Chonbuk National University** in South Korea<br>2009-2013, Bachelor degree<br>**Northeastern University** in China"
         image: assets/img/timeline/3.jpg
         alt:
       - title: "Visits"
@@ -45,7 +45,7 @@ en: &DEFAULT_EN
         align: left
       - title: "Publications"
 #         year: "2009-2011"
-        desc: "1. **Pivoting Large Object using Graph Model Predictive Control**<br>
+        desc: " 1. **Pivoting Large Object using Graph Model Predictive Control**<br>
         Zhang A, Keisuke K, Weiwei W, Kensuke H. The 21th Conference of the Society of Instrument and Control Engineers(SICE2020)<br>
         2. **Humanoid walking pattern generation based on model predictive control approximated with basis functions[J]**<br>
         Zhang A, Ramirez-Alpizar I G, Esclasse K G, Stasse O, Harada K.  Advanced Robotics, 2019: 1-15.<br>
@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "To be <br> continued!"
 
   services:
     title: "Services"
