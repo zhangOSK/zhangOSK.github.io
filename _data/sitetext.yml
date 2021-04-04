@@ -25,12 +25,7 @@ en: &DEFAULT_EN
     events:
       - title: "Education"
 #         year: "2009-2011"
-        desc: "2017-now, Ph.D candidate <br> 
-        **Osaka University** <br>
-        2014-2016, Master degree <br>
-        **Chonbuk National University in South Korea**<br>
-        2009-2013, Bachelor degree<br>
-        **Northeastern University in China**"
+        desc: "2017-now, Ph.D candidate<br>**Osaka University**<br>2014-2016, Master degree<br>**Chonbuk National University in South Korea**<br>2009-2013, Bachelor degree<br>**Northeastern University in China**"
         image: assets/img/timeline/3.jpg
         alt:
       - title: "Visits"
@@ -45,16 +40,13 @@ en: &DEFAULT_EN
       - title: "Service"
 #         year: "2019"
         desc: "Reviewer, IEEE/RSJ International Conference on Intelligent Robots and System.(IROS2021)<br>
-        Reviewer, IEEE International Conference on Advanced Robotics and Mechatronics.ICARM2019"
+        Reviewer, IEEE International Conference on Advanced Robotics and Mechatronics.(ICARM2019)"
         image: assets/img/timeline/1.jpg
         alt: image alt text
         align: left
       - title: "Publications"
 #         year: "2009-2011"
-        desc: "2020, Zhang A, Keisuke K, Weiwei W, Kensuke H. Pivoting Large Object using Graph Model Predictive Control. The 21th Conference of the Society of Instrument and Control Engineers(SICE2020)<br>
-        2019, Zhang A, Ramirez-Alpizar I G, Esclasse K G, Stasse O, Harada K. Humanoid walking pattern generation based on model predictive control approximated with basis functions[J]. Advanced Robotics, 2019: 1-15.<br>
-        2018, Chen M, Zhang A, Chong K T. A novel controller design for three-phase voltage source inverter[J]. International Journal of Control, Automation and Systems, 2018, 16(5): 2136-2145.<br>
-        2018, Zhang A, Ramirez-Alpizar I G, Stasse O, Harada K. A fast bipedal gait pattern generation based on model predictive control, 1J1- 052018.9 the 36th Annual Conference of the Robotics Society of Japan"
+        desc: "2020, Zhang A, Keisuke K, Weiwei W, Kensuke H. Pivoting Large Object using Graph Model Predictive Control. The 21th Conference of the Society of Instrument and Control Engineers(SICE2020)<br>2019, Zhang A, Ramirez-Alpizar I G, Esclasse K G, Stasse O, Harada K. Humanoid walking pattern generation based on model predictive control approximated with basis functions[J]. Advanced Robotics, 2019: 1-15.<br>2018, Chen M, Zhang A, Chong K T. A novel controller design for three-phase voltage source inverter[J]. International Journal of Control, Automation and Systems, 2018, 16(5): 2136-2145.<br>2018, Zhang A, Ramirez-Alpizar I G, Stasse O, Harada K. A fast bipedal gait pattern generation based on model predictive control, 1J1- 052018.9 the 36th Annual Conference of the Robotics Society of Japan"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
