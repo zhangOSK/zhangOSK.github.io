@@ -57,32 +57,32 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "To be <br> continued!"
+    end: ""
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+#   services:
+#     title: "Services"
+#     text: "Lorem ipsum"
+#     section: services
+#     list:
+#       - title: "E-Commerce"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#       - title: "Responsive Design"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-laptop
+#       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#         desc: "Your description here, full **Markdown** support"
+#         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Research"
+    text: "Manipulation, bipedal walking, model predictive control, feedback control, nonprehensile manipulation..."
     section: portfolio
     closebutton: "Close Project"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "Contact"
+    text: "zhang@hlab.sys.es.osaka-u.ac.jp"
     section: about
 
   clients:
@@ -140,10 +140,10 @@ en: &DEFAULT_EN
 #           - url: https://linkedin.com
 #             icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact"
-    text: "zhang@hlab.sys.es.osaka-u.ac.jp"
-    section: contact
+#   contact:
+#     title: "Contact"
+#     text: "zhang@hlab.sys.es.osaka-u.ac.jp"
+#     section: contact
 #     name: "Name*"
 #     name-validation: "Please enter your name."
 #     email: "Email*"
