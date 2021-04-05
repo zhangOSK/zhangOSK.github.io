@@ -26,7 +26,7 @@ en: &DEFAULT_EN
       - title: "Education"
 #         year: "2009-2011"
         desc: "2017-now, Ph.D candidate<br>**Osaka University** in Japan<br>2014-2016, Master<br>**Chonbuk National University** in South Korea<br>2009-2013, Bachelor<br>**Northeastern University** in China"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/osakauniv.png
         alt:
       - title: "Visits"
 #         year: "March 2011"
@@ -40,7 +40,7 @@ en: &DEFAULT_EN
       - title: "Service"
 #         year: "2019"
         desc: "Reviewer, IROS2021<br>IEEE/RSJ International Conference on Intelligent Robots and System.<br>Reviewer, ICARM2019<br>IEEE International Conference on Advanced Robotics and Mechatronics."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/3.jpg
         alt: image alt text
         align: left
       - title: "Publications"
@@ -53,7 +53,7 @@ en: &DEFAULT_EN
         Chen M, Zhang A, Chong K T., International Journal of Control, Automation and Systems, 2018, 16(5): 2136-2145.<br>
         4. **A fast bipedal gait pattern generation based on model predictive control.**<br>
         Zhang A, Ramirez-Alpizar I G, Stasse O, Harada K., 1J1- 052018.9 the 36th Annual Conference of the Robotics Society of Japan, 2018"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/publication.jfif
         alt:
         # you can enforce the alignment
         align: right
