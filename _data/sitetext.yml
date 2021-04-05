@@ -16,9 +16,24 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#timeline"
     
+    services:
+    title: "Welcome!"
+    text: "Hi，I am Zhang Ang who is currently a Ph.D candidate in the Graduate School of Engineering Science at Osaka University. I am suprevised by Prof. [Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/) and I also work with Prof. [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11) at CNRS-LAAS. My research insterets are robotic manipulation, bipedal walking and control theory."
+    section: services
+#     list:
+#       - title: "E-Commerce"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#       - title: "Responsive Design"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-laptop
+#       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#         desc: "Your description here, full **Markdown** support"
+#         icon: fab fa-markdown
+    
   timeline:
-    title: "About"
-    text: "Self Introduction"
+    title: "Self-Introduction"
+#     text: "Self Introduction"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -59,31 +74,16 @@ en: &DEFAULT_EN
         align: right
     end: ""
 
-#   services:
-#     title: "Services"
-#     text: "Lorem ipsum"
-#     section: services
-#     list:
-#       - title: "E-Commerce"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-#       - title: "Responsive Design"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#         icon: fas fa-laptop
-#       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-#         desc: "Your description here, full **Markdown** support"
-#         icon: fab fa-markdown
-
   portfolio:
     title: "Research"
     text: "Manipulation, bipedal walking, model predictive control, feedback control, nonprehensile manipulation..."
     section: portfolio
     closebutton: "Close Project"
 
-  about:
-    title: "Contact"
-    text: "zhang@hlab.sys.es.osaka-u.ac.jp"
-    section: about
+#   about:
+#     title: "Contact"
+#     text: "zhang@hlab.sys.es.osaka-u.ac.jp"
+#     section: about
 
   clients:
     section: clients
@@ -104,8 +104,8 @@ en: &DEFAULT_EN
 #         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Harada Lab"
+    text: "You are welcomed to visit our [lab's homepage](https://www.roboticmanipulation.org/)."
 #     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
 #     people:
@@ -140,9 +140,9 @@ en: &DEFAULT_EN
 #           - url: https://linkedin.com
 #             icon: fab fa-linkedin-in
 
-#   contact:
-#     title: "Contact"
-#     text: "zhang@hlab.sys.es.osaka-u.ac.jp"
+  contact:
+    title: "Contact"
+    text: "Or send an email to zhang@hlab.sys.es.osaka-u.ac.jp"
 #     section: contact
 #     name: "Name*"
 #     name-validation: "Please enter your name."
