@@ -4,8 +4,8 @@ subtitle: Selected publications
 alt: 
 
 caption:
-  title: Pulling fire hose
-  subtitle: By humanoid robot Talos
+  title: Publications
+  subtitle: 
   thumbnail: assets/img/timeline/publication.jpg
 ---
 <ol>
