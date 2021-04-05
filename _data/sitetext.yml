@@ -60,7 +60,6 @@ en: &DEFAULT_EN
         alt: image alt text
         align: left
     end: ""
-      image: assets/img/timeline/3.jpg
 
   portfolio:
     title: "Research"
