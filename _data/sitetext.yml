@@ -21,19 +21,20 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "About Me"
-        desc: "Hi，I am Zhang Ang who is currently a Ph.D candidate in the Graduate School of Engineering Science at Osaka University. I am suprevised by Prof. [Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/) and I also work with Prof. [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11) at CNRS-LAAS."
-        icon: far fa-user-robot #find more at https://fontawesome.com/icons
-#       - title: "Responsive Design"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#         icon: fas fa-laptop
+      - title: "Hi！"
+        desc: "I am Zhang Ang who is currently a Ph.D candidate in the Graduate School of Engineering Science at Osaka University. I am suprevised by Prof. [Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/) and I also work with Prof. [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11) at CNRS-LAAS."
+#         icon: far fa-user-robot #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop
+      - title: "你好"
+        desc: "我是张昂，目前是大阪大学基础工学研究科的博士生。我师从原田研介教授以及Olivier Stasse教授。"
+        icon: fas fa-laptop
 #       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
 #         desc: "Your description here, full **Markdown** support"
 #         icon: fab fa-markdown
     
   timeline:
-    title: "Self-Introduction"
-    text: "个人简介"
+    title: "About Me"
+    text: "关于我"
     section: timeline
     # left is the default
     #start_align: "left"
