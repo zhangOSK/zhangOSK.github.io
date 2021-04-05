@@ -27,12 +27,12 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "你好"
         desc: "我是张昂，目前是大阪大学基础工学研究科的博士生。我师从原田研介教授以及Olivier Stasse教授。"
-#         icon: fas fa-laptop
+        icon: far fa-user-robot
         image: assets/img/timeline/3.jpg
       - title: "Interests"
-        desc: "I am intereted in feedback control in robotics, force control and motion plan."
-#         icon: fab fa-markdown
-        image: assets/img/timeline/horse.jpg
+        desc: "I am intereted in feedback control in robotics, force control and motion plan. Test icon in jpg"
+        icon: assets/img/timeline/horse.jpg
+#         image: assets/img/timeline/horse.jpg
     
   timeline:
     title: "About Me"
