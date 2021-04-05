@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#timeline"
     
-    services:
+  services:
     title: "Welcome!"
     text: ""
     section: services
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Harada Lab"
-    text: "You are welcomed to visit our [lab's homepage](https://www.roboticmanipulation.org/)."
+    subtext: "You are welcomed to visit our [lab's homepage](https://www.roboticmanipulation.org/)."
 #     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
 #     people:
