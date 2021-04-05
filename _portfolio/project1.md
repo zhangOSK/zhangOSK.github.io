@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: Pivoting Manipulation
+subtitle: MPC is implemented to realize feedback control.
+image: assets/img/portfolio/pivotCamGif.gif
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Pivoting Manipulation
+  subtitle: A large box is manipulated by Yaskawa Robot.
+  thumbnail: assets/img/portfolio/pivotSum.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Pivoting manipulation is suitable for moving large and heavy objects because the most weight of the object is supported by the floor. We propose graph MPC to realize a pivoting gait. Two gait modes are designed which are Douple Support(DS) mode and Quadruple Support(QS) mode. The DS mode is fast while the QS mode is stable.<br>A graph is proposed to select a proper sequence of gait mode. Then, MPC is used to track a desired trajecotry.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2021.04
+
 
