@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+title: Pulling fire hose
+subtitle: By humanoid robot Talos
+image: assets/img/portfolio/talosHoseGif.gif
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  title: Pulling fire hose
+  subtitle: By humanoid robot Talos
+  thumbnail: assets/img/portfolio/talosHose.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+I hope that one day robot can replace human to work in dangerous places. In this work, I make the humanoid robot to carry a fire-hose during walking. Keeping balance of a robot with 34-DOF is difficult, not to mention carrying a soft fire-hose. I predict the desired pulling force and try to compensate the disturbance force from the robot hand which holds the hose. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: 2021.04
+
 
