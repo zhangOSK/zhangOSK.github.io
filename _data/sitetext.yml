@@ -20,7 +20,6 @@ en: &DEFAULT_EN
     title: "Welcome!"
     text: ""
     section: services
-       image: assets/img/timeline/horse.jpg
 #     list:
 #       - title: "Hi！"
 #         desc: "I am Zhang Ang who is currently a Ph.D candidate in the Graduate School of Engineering Science at Osaka University. I am suprevised by Prof. [Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/) and I also work with Prof. [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11) at CNRS-LAAS."
