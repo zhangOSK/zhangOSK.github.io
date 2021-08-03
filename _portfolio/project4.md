@@ -12,4 +12,4 @@ caption:
 The pivoting gait is stengthened by combining tumbling and regrasping which improves the performance of collision avoidance. In addition, I propose a manipulation planning to manipulate a general shaped object. 
 
 {:.list-inline}
-- Date: 2021.04
+- Date: 2021.08
