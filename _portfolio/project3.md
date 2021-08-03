@@ -5,7 +5,7 @@ image: assets/img/portfolio/talosHoseGif.gif
 alt: 
 
 caption:
-  title: Pulling fire hose
+  title: Pulling Fire Hose
   subtitle: By humanoid robot Talos
   thumbnail: assets/img/portfolio/talosHose.jpg
 ---
