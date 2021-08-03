@@ -1,7 +1,7 @@
 ---
 title: Manipulation combining Pivoting, Tumbling and Regrasping
 subtitle: Dexterous manipulation
-image: assets/img/portfolio/rotz.gif
+image: assets/img/portfolio/rotUp.gif
 alt: 
 
 caption:
