@@ -9,7 +9,9 @@ caption:
   thumbnail: assets/img/timeline/publication.jpg
 ---
 <ol>
+<li>Manipulation Planning for Large Objects through Pivoting, Tumbling, and Regrasping. Zhang A, Keisuke K, Weiwei W, Kensuke H.  Advances in Industrial Robotics and Intelligent Systems. Applied Sciences. Pdf is available at (https://www.mdpi.com/2076-3417/11/19/9103), 2021. </li>
 <li>Controlling Pivoting Gait Using Graph Model Predictive Control. Zhang A, Keisuke K, Weiwei W, Kensuke H. IEEE Access. Pdf is available at (https://ieeexplore.ieee.org/document/9432937), 2021. </li>
+<li>Manipulation Planning to Pivot a General Shaped Object. Zhang A, Keisuke K, Weiwei W, Kensuke H. The 39th annual conference of the Robotics Society of Japan (RSJ2021), Sept 8~11</li>
 <li>Pivoting Large Object Using Graph Model Predictive Control. Zhang A, Keisuke K, Weiwei W, Kensuke H. The 21th Conference of the Society of Instrument and Control Engineers(SICE2020)</li>
 <li>Humanoid walking pattern generation based on model predictive control approximated with basis functions[J]. Zhang A, Ramirez-Alpizar I G, Esclasse K G, Stasse O, Harada K.  Advanced Robotics, 2019: 1-15.</li>
 <li>A novel controller design for three-phase voltage source inverter[J]. Chen M, Zhang A, Chong K T., International Journal of Control, Automation and Systems, 2018, 16(5): 2136-2145.</li>
