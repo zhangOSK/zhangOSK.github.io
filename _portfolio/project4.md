@@ -9,7 +9,7 @@ caption:
   subtitle: By industrial robot SDA5F
   thumbnail: assets/img/portfolio/piano.jpg
 ---
-The pivoting gait is stengthened by combining tumbling and regrasping which improve the performance of collision avoidance. In addition, a manipulation planning is proposed to manipulate a general shaped object. [Paper](https://www.mdpi.com/2076-3417/11/19/9103)
+The pivoting gait is stengthened by combining tumbling and regrasping which improve the performance of collision avoidance. In addition, a manipulation planning is proposed to manipulate a general shaped object. [Paper](https://www.mdpi.com/2076-3417/11/19/9103), [Video](https://www.youtube.com/watch?v=odfW7x-giOI), [视频](https://www.bilibili.com/video/BV1Cf4y1j7oM?spm_id_from=333.999.0.0)
 
 {:.list-inline}
 - Date: 2021.09
